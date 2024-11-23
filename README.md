@@ -37,7 +37,7 @@ This decentralized application (DApp) leverages blockchain technology to create 
 
 1. Clone the repository:
    bash
-   git clone https://github.com/your-username/project_crowdfunding.git
+   git clone (https://github.com/ahamed-ali-git/Crowdfunding_with_Solidity.git)
    cd project_crowdfunding/web3
    
 
